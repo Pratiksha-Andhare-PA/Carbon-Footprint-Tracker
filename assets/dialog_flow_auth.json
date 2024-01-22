@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "carbon-footprint-tracker-lnwl",
+  "private_key_id": "10108780353c21aaef9e40ab96dedfcfa2b7b853",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC32tw5hlEPxnP/\nim59+kz6AOJ7QC1f9dcuswEOaupDDCn8aETICo44C6zA3SuXkB/T0cWmeXtm2lrn\nkswNXstZNpUM2bTRIjBzVa2avTNigBAq0aXwNJPqtX+EtXktOtaSjOvoJMX7Cv4I\nmZfC9CFgmB0zF+9TPsh4E3BghsXzMcSUJ64ofikul3J0PKp7U37VblEcVngOSAJX\nofJqfnNgShEMK2MIheXHXalQQ6hQ+GxTgwash5i3EuLMtk9Q7joFgVJBeP74E6Xr\nJ0QuYa16i/uh+hIlFwdhRWfKy/0BafYkgq/fnROI/Pk+o/lTsi1reauSTa34wtKM\nH1UVysyJAgMBAAECggEAH7NY7YI/T90D+ze/PXF+/ExSwLWcHUOiSqcKs5WztsPO\nKXtBAMzxILDCpK596bAsDLXKwp2HrYBQ1ET3cga6QTOsF38iMj0W5YwMVvXwejdi\nkj97wSMPrhSFXDh+IFJY1QP/WROeH18R1iHFjRPS/Xi88CZcWZolrq6LXdlfIENV\ng5uq9j+zG5c7l2RYmueEDKOvXdxvVDedIFAlZN2xDfTk6/euc0YdFAQVkiC0uSSc\nWR3Q2kU3k9pxuIQN/z7q48ZTCQ/b9cnyPU/6CeVVmRZlB3cOBstF9v24uJTA9kQm\nfZNtyrojYiBWoXXPKVg+qLjxjkYRTloVm3jvOXPJkQKBgQDpJBa/dRS49loG7LZR\n/feIl3mTnj1lTIiIAQAd+dKuiRdaWxCjQA+Os8nvKMLD/gNvs3K+7OzvIlYBMuwH\nmx+WOE4PgNeZ4AM/7zkCfcgWZtjt8RAb1v1I5lMmGYdnVJkefbA//9e+Hn3qDzSz\n1SFf9PloWxeVn/+UMAIEW7Y3KwKBgQDJ4a0aJ53JIiqW959bUNzBf3rbXKnyZBJG\nDXkxkvIjAJEqHxpU92PvuNcz5ZJRHbuueN3xHUH+pgAV0jSzePsV681XPxHUm/Z7\nBk09kc21Msg14ky0HGlhonaofk5tXyE0aCkVYxR8vSXIMIMaYPJPHhC/vpr2ztqI\noeyupStxGwKBgQDQDsrWNbA2mHMjNuBGL7VWCogO+uqjmjdF2E64cZhY9jMHCbnB\nVowLt9sAOYoGyotahfRi+qE/j47dJwqIhyEbOEhBgaPmyIld5ykjVgjYJRR20+ii\nT6xeAF435BR4XIEBOv2tP67TFfcciFFqI0vTjJV/UbusZcr5/hXuucHVXQKBgC+l\n4CFIMGmEcuDm2OnIkBHrcKfNmx7ml5mJHI2izRuNyrVSWfir2x59Ve2dxYb3qZBo\nXpnF+gmMTIDZ+C5T448s9G4fKKoxlV88AYcCnrahobd2DfyEqCqvGapzBTezODcS\nToAJvpAiZIR3TrovH4Gk6vcWmaSe9d1BuocN3M75AoGAGhJ9afo5LG1o1wNzA/3d\nk5SWyLz3EFCdLfTLY4F0P673jBcYQO7tzRUEg6N+sak7jJm03q88e55kGGdfGJIx\nVBmkJ7j06bhJkRycZxxewqBPJCN448mBn2e/1q4GlKwC+haDzSnfCYeOvfJG6MlQ\nkEanNEn3GOEIonvcDgaau3E=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bot-886@carbon-footprint-tracker-lnwl.iam.gserviceaccount.com",
+  "client_id": "111504489227795212669",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bot-886%40carbon-footprint-tracker-lnwl.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "475688784426",
+    "project_id": "carbon-footprint-tracker-5d1af",
+    "storage_bucket": "carbon-footprint-tracker-5d1af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475688784426:android:52247607d4ddb8ffe0e953",
+        "android_client_info": {
+          "package_name": "com.example.carbon_footprint_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCegCMwaNQKkqRLD3GJ948e6DcPDYLwpWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475688784426:android:372697a3b3b06213e0e953",
+        "android_client_info": {
+          "package_name": "com.example.temp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCegCMwaNQKkqRLD3GJ948e6DcPDYLwpWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
