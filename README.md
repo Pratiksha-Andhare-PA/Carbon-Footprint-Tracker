@@ -10,7 +10,6 @@
    - [Running the App](#running-the-app)
 4. [Usage](#usage)
 
-
 ## Description
 
 The Carbon Footprint Tracker is a Flutter application designed to help users monitor and reduce their carbon footprint. The app provides various features to calculate, visualize, and engage users in eco-friendly practices.
@@ -68,7 +67,7 @@ cd <repository-directory>
 - Connect a device or start an emulator.
 - Run the app: `flutter run`
 
-### Usage
+## Usage
 
 Follow these instructions to use the application:
 
